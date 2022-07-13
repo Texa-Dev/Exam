@@ -1,0 +1,6 @@
+﻿  Creator.cpp
+C:\Users\artem\Desktop\111\EXAM\Creator\Creator.cpp(29,13): warning C4101: 'buf': unreferenced local variable
+C:\Users\artem\Desktop\111\EXAM\Creator\Creator.cpp(453,3): warning C4551: function call missing argument list
+C:\Users\artem\Desktop\111\EXAM\Creator\Creator.cpp(586,3): warning C4551: function call missing argument list
+C:\Users\artem\Desktop\111\EXAM\Creator\Creator.cpp(627,3): warning C4551: function call missing argument list
+  Creator.vcxproj -> C:\Users\artem\Desktop\111\EXAM\x64\Debug\Creator.exe

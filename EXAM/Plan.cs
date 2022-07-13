@@ -9,14 +9,14 @@ namespace EXAM
     internal class Plan
     {
 
-        public string Type { get; }
         public string Content { get; set; }
         public DateTime Time { get; set; }
-        public Plan(string type, string content, DateTime time)
+        public string Type { get; }
+        public Plan(string content,DateTime time, string type)
         {
-            Type = type;
             Content = content;
             Time = time;
+            Type = type;
         }
         
 

@@ -6,11 +6,17 @@ namespace EXAM
     {
 
         private Executor _executor = new Executor();
-        private string pathToJSON = "user.json";
+
+        //string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory,
+        //            "words", "dictionary.txt");
+
+        //   string pathToJSON = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"Creator\output.json");
+        private string pathToJSON = "..\\..\\..\\..\\output.json";
 
         public Form1()
         {
             InitializeComponent();
+         
 
             _executor.Init(pathToJSON); // инициализируем выполнятор со списком планов
 
