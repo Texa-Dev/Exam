@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AlyuEBFh2f8R7DDY+O+bl0hD4FRY6hNDO9sV20V3tTs/T5wtb9VaYEVw7bwluaSNzKdObG+Nxk/T3UMoYX3x7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artem\\Desktop\\111\\EXAM\\EXAM\\EXAM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artem\\.nuget\\packages\\xamarin.forms\\5.0.0.2478\\xamarin.forms.5.0.0.2478.nupkg.sha512"
+  ],
+  "logs": []
+}
